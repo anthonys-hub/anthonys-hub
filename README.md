@@ -4,7 +4,7 @@
 
 
 
-🎓 I am currently majoring in Computer information Systems, studying at Post University! <br/>
+🎓 I am currently working towards my Bachelors of Science in Computer Information Systems <br/>
 📝 I'm currently learning React! <br/>
 🥅 My Goal is to become a Full Stack Developer <br/>
 
