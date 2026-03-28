@@ -1,10 +1,11 @@
-<h1>👋 Hi, I'm Anthony!></h1>
-<h4>Aspiring Full Stack Developer</h4>
+<h1>👋 Hi, I'm Anthony!</h1>
+
+Aspiring Full Stack Developer
 
 
 
 
-🎓 I am currently working towards my Bachelors of Science in Computer Information Systems <br/>
+🎓 I am currently working towards my Bachelors of Science in Computer Information Systems! <br/>
 📝 I'm currently learning React! <br/>
 🥅 My Goal is to become a Full Stack Developer <br/>
 
