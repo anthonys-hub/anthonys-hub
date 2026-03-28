@@ -1,24 +1,13 @@
-# 🧙🏾‍♂️ Anthony Colella
+<h1>👋 Hi, I'm Anthony!></h1>
+<h4>Aspiring Full Stack Developer</h4>
 
-**`Web Dev Magician 🪄 `**
 
 
-```js
- ​​Older than a blade of grass and younger than a mountain.
-- said a Wise Man
-```
 
-```js
-Make yourself do what you dont want to until you can do exactly what you want to.
-- Lawrence
-```
+🎓 I am currently majoring in Computer information Systems, studying at Post University! <br/>
+📝 I'm currently learning React! <br/>
+🥅 My Goal is to become a Full Stack Developer <br/>
 
-👋🏾 Hi, I'm Christen! <br/>
-🪖 I'm a USAF Veteran <br/>
-🎓 I have a BFA in Graphic Design from Lamar University
-📔 I'm currently learning HTML, CSS , and JavaScript! <br/>
-🥅 My Goal is to become a Web Developer! <br/>
-🎥 You can watch my videos on YouTube : [@christencodes](https://www.youtube.com/@christencodes)! <br/>
 
 ---
 
@@ -31,12 +20,14 @@ Make yourself do what you dont want to until you can do exactly what you want to
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
+
+
+
 
 <br/>
 <br/>
 
 ---
-### 📺 Latest YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- END YOUTUBE-CARDS -->
