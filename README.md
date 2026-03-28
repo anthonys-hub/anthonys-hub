@@ -1,12 +1,42 @@
-🧙🏾‍♂️ Anthony Colella
+# 🧙🏾‍♂️ Anthony Colella
+
+**`Web Dev Magician 🪄 `**
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+ ​​Older than a blade of grass and younger than a mountain.
+- said a Wise Man
+```
+
+```js
+Make yourself do what you dont want to until you can do exactly what you want to.
+- Lawrence
+```
+
+👋🏾 Hi, I'm Christen! <br/>
+🪖 I'm a USAF Veteran <br/>
+🎓 I have a BFA in Graphic Design from Lamar University
+📔 I'm currently learning HTML, CSS , and JavaScript! <br/>
+🥅 My Goal is to become a Web Developer! <br/>
+🎥 You can watch my videos on YouTube : [@christencodes](https://www.youtube.com/@christencodes)! <br/>
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" />
+
+<br/>
+<br/>
+
+---
+### 📺 Latest YouTube Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
