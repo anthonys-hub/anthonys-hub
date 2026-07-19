@@ -1,13 +1,13 @@
 <h1>👋 Hi, I'm Anthony!</h1>
 
-Aspiring Full Stack Developer
+Software Engineer
 
 
 
 
 🎓 I am currently working towards my Bachelors of Science in Computer Information Systems! <br/>
-📝 I'm currently learning React! <br/>
-🥅 My Goal is to become a Full Stack Developer <br/>
+📝 I'm currently interning as a Software Engineer! <br/>
+
 
 
 ---
